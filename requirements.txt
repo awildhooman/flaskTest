@@ -1,2 +1,9 @@
 Flask
 Gunicorn
+flask_cors
+sentence_transformers
+numpy
+pymongo
+json
+oauth2client.service_account
+gspread
